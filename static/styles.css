@@ -1,0 +1,13 @@
+
+body {
+  background-color: #e6e4d9;
+}
+h1 {
+  margin: 5%;
+  text-align: center;
+  margin-bottom: 7.5%
+}
+p:hover {
+  background-color: lightgreen;
+  transform: scale(1.1);
+}
